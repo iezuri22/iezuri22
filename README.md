@@ -3,9 +3,8 @@
 Solutions engineer in Chicago. I build the working version of the thing instead of describing it.
 
 Six years delivering CRM and enterprise systems — most recently an integration across 15
-departments serving 200,000+ records and 2,000+ users. Outside that I design, build, and operate
-production applications end to end, including the entire technology stack of a licensed home care
-agency I own and run.
+departments serving 200,000+ records and 2,000+ users. Outside that I design and build production
+applications end to end, including the full operations stack of a licensed home care agency.
 
 **What I actually do:** technical discovery, live demos for non-technical audiences, and fast
 prototypes that prove an integration works before anyone commits to it.
@@ -20,7 +19,7 @@ an org's existing system of record instead of replacing it, **Google Calendar OA
 **Anthropic Claude** for action-item extraction. Vercel serverless functions on Neon Postgres.
 
 **VitalTouch Operations Platform** — private
-Runs a licensed Illinois home care agency. Next.js + TypeScript, Neon Postgres with Drizzle ORM
+Operations platform for a licensed Illinois home care agency. Next.js + TypeScript, Neon Postgres with Drizzle ORM
 across 20 tables, multi-role NextAuth (staff / applicant / client) with passwordless login codes,
 **Microsoft Graph** document routing into SharePoint, **Twilio** voice and SMS attached to client
 records, six unattended cron jobs, PDF generation, and e-signature capture.
